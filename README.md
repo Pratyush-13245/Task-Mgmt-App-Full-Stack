@@ -78,6 +78,11 @@ Method	Endpoint	Description
 GET	/api/tasks	Get all tasks
 POST	/api/tasks	Create a new task
 
+Screen Shots 
+![image](https://github.com/user-attachments/assets/449beaba-5af2-414a-b5b1-376d432cedbc)
+![image](https://github.com/user-attachments/assets/2f685dad-137e-429d-8e0d-97a269d6b7b3)
+
+
 🤝 Contributing
 Feel free to fork this repo and contribute! Pull requests are welcome.
 
